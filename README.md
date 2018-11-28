@@ -20,7 +20,7 @@ Arguments can be chained together. Here are some examples:
 # Current Limitations
 The obvious limitation is content. Despite what people say, I'm only human. This means I haven't actually gone back and created highlight gifs for every play of every game. We in the Patriots subreddit have been lucky enough to have our beloved /u/timnog creating highlight gifs for us over the past few years, and I've been working on helping out with creating historical Patriots gifs. So right now the bot is going to start out as pretty Patriot-highlight heavy, at least for older stuff.
 
-However, I have actually gone through this subreddit and converted as many posts tagged with the "Highlight" flair into gfycat videos and added them to the site, and this will continue. I've set up a listener to convert and add any future Highlight posts to the bot's database. I'll still be manually tagging them, but the list will be growing.
+However, I have actually gone through the nfl subreddit and converted as many posts tagged with the "Highlight" flair into gfycat videos and added them to the site, and this will continue. I've set up a listener to convert and add any future Highlight posts to the bot's database. I'll still be manually tagging them, but the list will be growing. So at the beginning, most of the highlights will be from this season onwards.
 
 I've also posted in each team's subreddit asking for the best plays of every team, and I've started adding those into the system as well. 
 
